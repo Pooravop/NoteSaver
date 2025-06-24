@@ -117,7 +117,7 @@ const NoteState = (props) => {
         throw new Error(errorData.error || `Failed to delete note: ${response.status}`);
       }
 
-      const json = await response.json();
+      await response.json();
       const newNotes = notes.filter((note) => note._id !== id);
       setNotes(newNotes);
       safeShowAlert('Note deleted successfully!', 'success');
@@ -155,7 +155,7 @@ const NoteState = (props) => {
         throw new Error(errorData.error || `Failed to update note: ${response.status}`);
       }
 
-      const json = await response.json();
+      await response.json();
       let newNotes = JSON.parse(JSON.stringify(notes));
 
       //Logic to Edit a Note

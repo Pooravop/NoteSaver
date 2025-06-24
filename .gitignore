@@ -24,9 +24,6 @@ yarn-error.log*
 
 #hide Files
 backend/node_modules
-backend/package-lock.json
-backend/package.json
-/package.json
-/package-lock.json
+
 backend/.env
 .env

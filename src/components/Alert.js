@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 
-function Alert(props) {
+function Alert({ alert, setAlert }) {
   const capitalize = (word) => {
     if (word === 'danger') {
       word = 'error';
@@ -11,19 +11,19 @@ function Alert(props) {
 
   // Automatically dismiss the alert after 3 seconds (3000ms)
   useEffect(() => {
-    if (props.alert) {
+    if (alert) {
       const timer = setTimeout(() => {
-        props.setAlert(null); // make sure to pass this function from parent
+        setAlert(null); // make sure to pass this function from parent
       }, 3000);
       return () => clearTimeout(timer); // cleanup
     }
-  }, [props.alert]);
+  }, [alert, setAlert]);
 
   return (
     <div style={{ marginTop: "56px", marginBottom: "16px", height: '50px' }}>
-      {props.alert &&
-        <div className={`alert alert-${props.alert.type} alert-dismissible fade show`} role="alert">
-          <strong>{capitalize(props.alert.type)}</strong>: {props.alert.msg}
+      {alert &&
+        <div className={`alert alert-${alert.type} alert-dismissible fade show`} role="alert">
+          <strong>{capitalize(alert.type)}</strong>: {alert.msg}
         </div>}
     </div>
   );

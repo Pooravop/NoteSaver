@@ -1,10 +1,8 @@
-import React, { useState, useContext } from 'react';
+import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import noteContext from '../context/notes/NoteContext';
 import { motion } from 'framer-motion';
 
 const Login = (props) => {
-    const context = useContext(noteContext);
     const { showAlert } = props;
     const [credentials, setCredentials] = useState({
         email: "",

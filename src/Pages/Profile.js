@@ -4,8 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 
 const Profile = (props) => {
-  const context = useContext(noteContext);
-  const { safeShowAlert } = context;
+  const { safeShowAlert } = useContext(noteContext);
   const { mode } = props;
   const [userData, setUserData] = useState(null);
   const [isLoading, setIsLoading] = useState(true);

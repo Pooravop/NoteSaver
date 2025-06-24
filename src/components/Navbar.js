@@ -1,9 +1,7 @@
 import React from "react";
-import { Link, useLocation, useNavigate } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 
 const Navbar = (props) => {
-    const { showAlert } = props
-    let history = useNavigate()
     let location = useLocation();
     return (
         <div>

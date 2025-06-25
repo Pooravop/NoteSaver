@@ -1,4 +1,4 @@
-# 📓 Notekar Web Application
+# 📓 Notekar Web Application    (  https://notekar-frontend1.onrender.com )
 
 **Notekar** is a secure, full-stack web application designed to help users create, manage, and organize personal notes in the cloud. With intuitive UI/UX, robust authentication, and real-time data operations, Notekar provides a seamless note-taking experience.
 
@@ -80,7 +80,7 @@ Modern modal interface for editing existing notes.
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/Dp20703/notekar # You might want to update this to your own repo URL
+    git clone https://github.com/ayushmanmishra18/Notekar # You might want to update this to your own repo URL
     cd notekar # Or 'cd notekar' if you rename the root folder
     ```
 
@@ -143,10 +143,4 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENSE) fil
 
 ---
 
-## 📬 Contact
 
-Created by **Ayushman Mishra** – reach out via [ayushmanmishraji1@gmail.com](mailto:ayushmanmishraji1@gmail.com)
-
-Feel free to connect with me on [LinkedIn](YOUR_LINKEDIN_PROFILE) or [GitHub](YOUR_GITHUB_PROFILE).
-
----

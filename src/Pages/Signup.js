@@ -100,7 +100,7 @@ const Signup = (props) => {
             transition={{ duration: 0.5 }}
         >
             <h2 className='my-2 d-flex justify-content-center' style={{ color: props.mode === "dark" ? "white" : "#042743" }}>
-                Create an account to use Notekar
+                Create an account to use NoteSaver
             </h2>
             <form onSubmit={handleSubmit} className="mt-4">
                 <div className="mb-3">

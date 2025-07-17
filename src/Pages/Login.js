@@ -88,7 +88,7 @@ const Login = (props) => {
             transition={{ duration: 0.5 }}
         >
             <h2 className='my-2 d-flex justify-content-center' style={{ color: props.mode === "dark" ? "white" : "#042743" }}>
-                Login to continue to Notekar
+                Login to continue to NoteSaver
             </h2>
             <form onSubmit={handleSubmit} className="mt-4">
                 <div className="mb-3">

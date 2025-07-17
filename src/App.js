@@ -41,7 +41,8 @@ function App() {
     <>
       <NoteState showAlert={showAlert}>
         <Router>
-          <Navbar showAlert={showAlert} mode={mode} toggleStyle={toggleMode} title="Notekar" />
+          <Navbar showAlert={showAlert} mode={mode} toggleStyle={toggleMode} title="NoteSaver
+          " />
           <Alert alert={alert} />
           <div className="container">
             <Routes>

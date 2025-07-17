@@ -40,7 +40,7 @@ Authenticated users can add,view, edit, and delete their notes.
 <img width="1647" height="575" alt="image" src="https://github.com/user-attachments/assets/12e5cf93-c46e-416e-aac9-7fc786b54e28" />
 <img width="1892" height="890" alt="image" src="https://github.com/user-attachments/assets/85b4733b-7abd-4758-9240-04c0328b5aef" />
 
-Authenticated users can sort their names based on date or title in increasing or decreasing order.
+Authenticated users can sort their names based on date or title in increasing or decreasing order. Demonstrated in screenshot below.
 <img width="1881" height="797" alt="image" src="https://github.com/user-attachments/assets/4df54195-70dd-4f90-bffa-c9f61ac989a8" />
 Sorted by Title in Decreasing Order
 

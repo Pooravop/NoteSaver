@@ -29,28 +29,30 @@ New users can sign up to start using NoteSaver.
 ### 🔐 Login Page
 
 Secure user login screen.
-<img width="1918" height="770" alt="image" src="https://github.com/user-attachments/assets/40bb93a3-03b2-4ea9-bc58-b838742d13df" />
+<img width="1918" height="896" alt="image" src="https://github.com/user-attachments/assets/a82f1c22-faa9-4b45-94de-b1517f671268" />
+
 
 
 ### 🏠 Home / Dashboard
 
 Authenticated users can add,view, edit, and delete their notes.<br>
 
-<img width="1918" height="905" alt="image" src="https://github.com/user-attachments/assets/1d494615-c103-4ea7-ae0e-dca0850e3896" /><br><br>
+<img width="1895" height="977" alt="image" src="https://github.com/user-attachments/assets/fd7aa321-b67e-4778-a01a-16bbf0ac2db2" />
+
+<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/41e8f208-6317-46fc-a5cb-2f47dd75a9d1" />
+<br><br>
+
+<img width="1913" height="513" alt="image" src="https://github.com/user-attachments/assets/98fd8fa1-4e7b-4d3e-9907-dde19b4182eb" /><br><br>
 
 
-<img width="1913" height="873" alt="image" src="https://github.com/user-attachments/assets/fe2557e9-b984-4e8d-9412-ea71faf77e0d" /><br><br>
+<img width="1917" height="516" alt="image" src="https://github.com/user-attachments/assets/e1123ecc-5404-420b-893e-b58490cd8f11" /><br><br>
 
-
-<img width="1897" height="758" alt="image" src="https://github.com/user-attachments/assets/cba6d22e-c670-4d00-a4c0-3ecdd93bb344" /><br><br>
-
-
-<img width="1892" height="890" alt="image" src="https://github.com/user-attachments/assets/85b4733b-7abd-4758-9240-04c0328b5aef" /><br><br>
-
+<img width="1910" height="912" alt="image" src="https://github.com/user-attachments/assets/e7351c45-36f1-44c1-a354-4bc6a78daf0c" /><br><br>
 
 Authenticated users can sort their names based on date or title in increasing or decreasing order. Demonstrated in screenshot below.<br>
 
-<img width="1881" height="797" alt="image" src="https://github.com/user-attachments/assets/4df54195-70dd-4f90-bffa-c9f61ac989a8" /><br>
+<img width="1890" height="503" alt="image" src="https://github.com/user-attachments/assets/8a83baf1-5aa1-4010-8ff0-cc1fb36c9419" />
+<br>
 
 Sorted by Title in Decreasing Order
 <br>

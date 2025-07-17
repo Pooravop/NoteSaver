@@ -1,6 +1,6 @@
 # 📓 Notekar Web Application    (  https://notekar-frontend1.onrender.com )
 
-**Notekar** is a secure, full-stack web application designed to help users create, manage, and organize personal notes in the cloud. With intuitive UI/UX, robust authentication, and real-time data operations, Notekar provides a seamless note-taking experience.
+**Notekar** is a secure, full-stack web application designed to help users create, manage,delete and organize personal notes in the cloud. With intuitive UI/UX, robust authentication, and real-time data operations, Notekar provides a seamless note-taking experience.
 
 ---
 
@@ -20,25 +20,34 @@
 
 ## 🖥️ Screenshots
 
-### 🔐 Login Page
-
-Secure user login screen.
-![Login Page](./public/images/Screenshots/Login.png)
-
 ### 📝 Registration Page
 
 New users can sign up to start using Notekar.
-![Registration Page](./public/images/Screenshots/Registration.png)
+<img width="1918" height="883" alt="image" src="https://github.com/user-attachments/assets/20628523-7c95-4d00-946e-f4d5e4124458" />
+
+
+### 🔐 Login Page
+
+Secure user login screen.
+<img width="1918" height="770" alt="image" src="https://github.com/user-attachments/assets/40bb93a3-03b2-4ea9-bc58-b838742d13df" />
+
 
 ### 🏠 Home / Dashboard
 
-Authenticated users can view, edit, and delete their notes.
-![Home Dashboard](./public/images/Screenshots/Home.png)
+Authenticated users can add,view, edit, and delete their notes.
+<img width="1918" height="905" alt="image" src="https://github.com/user-attachments/assets/1d494615-c103-4ea7-ae0e-dca0850e3896" />
+<img width="1913" height="873" alt="image" src="https://github.com/user-attachments/assets/fe2557e9-b984-4e8d-9412-ea71faf77e0d" />
+<img width="1647" height="575" alt="image" src="https://github.com/user-attachments/assets/12e5cf93-c46e-416e-aac9-7fc786b54e28" />
+<img width="1892" height="890" alt="image" src="https://github.com/user-attachments/assets/85b4733b-7abd-4758-9240-04c0328b5aef" />
+
+Authenticated users can sort their names based on date or title in increasing or decreasing order.
+<img width="1881" height="797" alt="image" src="https://github.com/user-attachments/assets/4df54195-70dd-4f90-bffa-c9f61ac989a8" />
+Sorted by Title in Decreasing Order
 
 ### ✏️ Update Note Modal
 
 Modern modal interface for editing existing notes.
-![Update Modal](./public/images/Screenshots/UpdateModal.png)
+
 
 ---
 

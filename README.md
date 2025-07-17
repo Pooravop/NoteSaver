@@ -99,8 +99,8 @@ Modern modal interface for editing existing notes.
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/ayushmanmishra18/Notekar # You might want to update this to your own repo URL
-    cd notekar # Or 'cd notekar' if you rename the root folder
+    git clone https://github.com/Pooravop/NoteSaver # You might want to update this to your own repo URL
+    cd noteSaver # Or 'cd notekar' if you rename the root folder
     ```
 
 2.  **Install dependencies**
@@ -123,8 +123,8 @@ Modern modal interface for editing existing notes.
 
         ```env
         PORT=5000
-        MONGODB_URI=mongodb://localhost:27017/notekar # Update if your MongoDB URI is different
-        JWT_SECRET=your_jwt_secret_key_here # **IMPORTANT: Change this to a strong, unique secret!**
+        MONGODB_URI=mongodb://localhost:27017/Saver # Update if your MongoDB URI is different
+        JWT_SECRET=super_encrypted_secret_key_here # **IMPORTANT: Change this to a strong, unique secret!**
         ```
 
 4.  **Run the application**

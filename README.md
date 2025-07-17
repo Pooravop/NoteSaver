@@ -131,13 +131,10 @@ Modern modal interface for editing existing notes.
 
     First, ensure your MongoDB server is running.
 
-    Then, run the `start-servers.bat` script in the root directory:
-    ```bash
-    start-servers.bat
-    ```
-    This script will open two terminal windows, one for the backend server and one for the frontend development server.
-
+    Then, run - npm run dev in backend. After backend starts successfully and mongo db is connected.
     *   Backend will be available at `http://localhost:5000`
+  
+    Then, run - npm start
     *   Frontend will be available at `http://localhost:3000`
 
 ---

@@ -36,7 +36,7 @@ Secure user login screen.
 
 ### 🏠 Home / Dashboard
 
-Authenticated users can add,view, edit, and delete their notes.<br>
+Authenticated users can add,view,search,delete and edit their notes.<br>
 
 <img width="1895" height="977" alt="image" src="https://github.com/user-attachments/assets/fd7aa321-b67e-4778-a01a-16bbf0ac2db2" />
 

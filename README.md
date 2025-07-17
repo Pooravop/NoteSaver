@@ -57,12 +57,14 @@ Authenticated users can sort their names based on date or title in increasing or
 
 Sorted by Title in Decreasing Order
 <br>
-### ✏️ Update Note Modal
 
-Modern modal interface for editing existing notes.
+## About us
+<br>
+<img width="1918" height="761" alt="image" src="https://github.com/user-attachments/assets/16cbc355-75a3-44c9-9ba6-38cf7a36dc8d" />
+<img width="1918" height="378" alt="image" src="https://github.com/user-attachments/assets/f4489dc7-80eb-46ff-9491-876e3233ac75" />
 
 
----
+
 
 ## 🛠️ Technology Stack
 

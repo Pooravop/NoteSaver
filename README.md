@@ -1,6 +1,6 @@
-# 📓 Notekar Web Application    (  https://notekar-frontend1.onrender.com )
+# 📓 NoteSaver Web Application    (  https://notekar-frontend1.onrender.com )
 
-**Notekar** is a secure, full-stack web application designed to help users create, manage,delete and organize personal notes in the cloud. With intuitive UI/UX, robust authentication, and real-time data operations, Notekar provides a seamless note-taking experience.
+**NoteSaver** is a secure, full-stack web application designed to help users create, manage,delete and organize personal notes in the cloud. With intuitive UI/UX, robust authentication, and real-time data operations, Notekar provides a seamless note-taking experience.
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### 📝 Registration Page
 
-New users can sign up to start using Notekar.
+New users can sign up to start using NoteSaver.
 <img width="1918" height="883" alt="image" src="https://github.com/user-attachments/assets/20628523-7c95-4d00-946e-f4d5e4124458" />
 
 

@@ -34,6 +34,17 @@ app.get('/', (req, res) => {
 app.use('/api/auth', require('./routes/auth'))
 app.use('/api/notes', require('./routes/notes'))
 
+const path = require('path');
+
+// Serve static files from the React frontend app
+app.use(express.static(path.join(__dirname, '../client/build')));
+
+// All other GET requests not handled before will return the React app
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, '../client/build/index.html'));
+});
+
+
 app.listen(port, () => {
     console.log(`Notekar backend listening on port http://localhost:${port}`)
 }) 
